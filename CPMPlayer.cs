@@ -1,5 +1,3 @@
-/*
- * - Edited by PrzemyslawNowaczyk (11.10.17)
  *   -----------------------------
  *   Deleting unused variables
  *   Changing obsolete methods
